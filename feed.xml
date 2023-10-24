@@ -1,80 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>www.atelier-boulnois.fr</title>
-    <link href="https://www.atelier-boulnois.fr/feed.xml" rel="self" />
-    <link href="https://www.atelier-boulnois.fr" />
+    <link href="http://www.atelier-boulnois.fr/feed.xml" rel="self" />
+    <link href="http://www.atelier-boulnois.fr" />
     <updated>2023-10-17T11:56:07+02:00</updated>
     <author>
         <name>Atelier Boulnois</name>
     </author>
-    <id>https://www.atelier-boulnois.fr</id>
+    <id>http://www.atelier-boulnois.fr</id>
 
     <entry>
         <title>Partenariats</title>
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/partenariats.html"/>
-        <id>https://www.atelier-boulnois.fr/partenariats.html</id>
+        <link href="http://www.atelier-boulnois.fr/partenariats.html"/>
+        <id>http://www.atelier-boulnois.fr/partenariats.html</id>
 
         <updated>2023-10-17T11:40:26+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/16/crafting415x283_2x.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/16/crafting415x283_2x.jpg" alt="" />
                     <p><em><strong>Vélo ALERION</strong>, 2014</em><br><em>Collaboration avec la Marque KLEIM ( designers Paule Guérin &amp; Till Breitfuss)</em></p>
 <p><em>     C’est au travers de projets plus créatifs et contemporains que l’atelier noue des partenariats réguliers </em><em>avec des designer artistes et artisans. </em><br><em>     Ces collaborations ont pour particularité de nous permettre de renouveler les champs d’expressions esthétiques et techniques. </em><br><em>     L’interdisciplinarité de ces exercices permet plus largement de restaurer les relations souvent distendues entre artisans et créateurs et ainsi par la création de renouer avec la tradition de ce type de collaboration </em><em>qui ont longtemps permis à l’artisanat d’art français de se hisser à son niveau d’excellence.</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/velo.jpg" data-size="1942x2847"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/velo-thumbnail.jpg" alt="" width="768" height="1126"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale2.jpg" data-size="2000x2000"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale4.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale4-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale5.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale5-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale1.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale1-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale6.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale6-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/velo.jpg" data-size="1942x2847"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/velo-thumbnail.jpg" alt="" width="768" height="1126"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale2.jpg" data-size="2000x2000"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale4.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale4-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale5.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale5-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale1.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale1-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale6.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale6-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
 </div></div>
 <hr>
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/16/crafting415x283_2x.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/16/crafting415x283_2x.jpg" alt="" />
                 <p><em><strong>Vélo ALERION</strong>, 2014</em><br><em>Collaboration avec la Marque KLEIM ( designers Paule Guérin &amp; Till Breitfuss)</em></p>
 <p><em>     C’est au travers de projets plus créatifs et contemporains que l’atelier noue des partenariats réguliers </em><em>avec des designer artistes et artisans. </em><br><em>     Ces collaborations ont pour particularité de nous permettre de renouveler les champs d’expressions esthétiques et techniques. </em><br><em>     L’interdisciplinarité de ces exercices permet plus largement de restaurer les relations souvent distendues entre artisans et créateurs et ainsi par la création de renouer avec la tradition de ce type de collaboration </em><em>qui ont longtemps permis à l’artisanat d’art français de se hisser à son niveau d’excellence.</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/velo.jpg" data-size="1942x2847"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/velo-thumbnail.jpg" alt="" width="768" height="1126"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale2.jpg" data-size="2000x2000"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale4.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale4-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale5.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale5-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale1.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale1-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale6.jpg" data-size="2560x1702"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/ale6-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/velo.jpg" data-size="1942x2847"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/velo-thumbnail.jpg" alt="" width="768" height="1126"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale2.jpg" data-size="2000x2000"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale4.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale4-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale5.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale5-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale1.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale1-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale6.jpg" data-size="2560x1702"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/ale6-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
 </div></div>
 <hr>
 <p><em>Travail en collaboration avec Elise Fouin</em></p>
-<figure class="post__image"><img loading="lazy"  src="https://www.atelier-boulnois.fr/media/posts/16/P1070573.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-xs.JPG 300w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-sm.JPG 480w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-md.JPG 768w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-lg.JPG 1024w"  alt="" width="2816" height="2112"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://www.atelier-boulnois.fr/media/posts/16/P1070573.JPG" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-xs.JPG 300w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-sm.JPG 480w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-md.JPG 768w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/P1070573-lg.JPG 1024w"  alt="" width="2816" height="2112"></figure>
 <hr>
 <p><em>Travaux en collaboration avec l'édition Compagnie</em></p>
 <p><em>Lampe Oiseau</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-Lampe-Oiseau-1-principal.jpg" data-size="1500x1125"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-Lampe-Oiseau-1-principal-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-3.jpg" data-size="1500x1379"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-3-thumbnail.jpg" alt="" width="768" height="706"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-7.jpg" data-size="1500x2269"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-7-thumbnail.jpg" alt="" width="768" height="1162"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-8.jpg" data-size="1500x994"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-8-thumbnail.jpg" alt="" width="768" height="509"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/LAMPE-OISEAU-Recherches.jpg" data-size="2338x1658"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/LAMPE-OISEAU-Recherches-thumbnail.jpg" alt="" width="768" height="545"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-Lampe-Oiseau-1-principal.jpg" data-size="1500x1125"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-Lampe-Oiseau-1-principal-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-3.jpg" data-size="1500x1379"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-3-thumbnail.jpg" alt="" width="768" height="706"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-7.jpg" data-size="1500x2269"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-7-thumbnail.jpg" alt="" width="768" height="1162"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-8.jpg" data-size="1500x994"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/COMPAGNIE-lampe-oiseau-8-thumbnail.jpg" alt="" width="768" height="509"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/LAMPE-OISEAU-Recherches.jpg" data-size="2338x1658"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/LAMPE-OISEAU-Recherches-thumbnail.jpg" alt="" width="768" height="545"></a></figure>
 </div></div>
 
 <p><em>Socle en chêne sculpté</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/JF-Bellemere.jpg.900x5000_q90.jpg" data-size="625x787"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/JF-Bellemere.jpg.900x5000_q90-thumbnail.jpg" alt="" width="625" height="787"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_2.jpg.900x5000_q90.jpg" data-size="591x787"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_2.jpg.900x5000_q90-thumbnail.jpg" alt="" width="591" height="787"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_4.jpg.900x5000_q90.jpg" data-size="591x787"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_4.jpg.900x5000_q90-thumbnail.jpg" alt="" width="591" height="787"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/JF-Bellemere.jpg.900x5000_q90.jpg" data-size="625x787"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/JF-Bellemere.jpg.900x5000_q90-thumbnail.jpg" alt="" width="625" height="787"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_2.jpg.900x5000_q90.jpg" data-size="591x787"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_2.jpg.900x5000_q90-thumbnail.jpg" alt="" width="591" height="787"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_4.jpg.900x5000_q90.jpg" data-size="591x787"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/jf_Bellemere_4.jpg.900x5000_q90-thumbnail.jpg" alt="" width="591" height="787"></a></figure>
 </div></div>
 <hr>
 <p><em>Recherches pour création de papier peints en partenariat avec Paule Guérin, Designer</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-gravure2-1.jpg" data-size="1181x2209"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-gravure2-1-thumbnail.jpg" alt="" width="768" height="1437"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-sanguine-copy.png" data-size="1181x2427"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-sanguine-copy-thumbnail.png" alt="" width="768" height="1578"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-or-crayon-2.jpg" data-size="1181x2359"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-or-crayon-2-thumbnail.jpg" alt="" width="768" height="1534"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-gravure2-1.jpg" data-size="1181x2209"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-gravure2-1-thumbnail.jpg" alt="" width="768" height="1437"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-sanguine-copy.png" data-size="1181x2427"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-sanguine-copy-thumbnail.png" alt="" width="768" height="1578"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-or-crayon-2.jpg" data-size="1181x2359"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/16/gallery/Pareclose-Chantilly-Test-or-crayon-2-thumbnail.jpg" alt="" width="768" height="1534"></a></figure>
 </div></div>
-<figure class="post__image"><img loading="lazy"  src="https://www.atelier-boulnois.fr/media/posts/16/Ensemble.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-xs.jpg 300w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-sm.jpg 480w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-md.jpg 768w ,https://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-lg.jpg 1024w"  alt="" width="3937" height="4413"></figure>
+<figure class="post__image"><img loading="lazy"  src="http://www.atelier-boulnois.fr/media/posts/16/Ensemble.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-xs.jpg 300w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-sm.jpg 480w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-md.jpg 768w ,http://www.atelier-boulnois.fr/media/posts/16/responsive/Ensemble-lg.jpg 1024w"  alt="" width="3937" height="4413"></figure>
 <hr>
 <p> </p>
             ]]>
@@ -85,39 +85,39 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/versailles.html"/>
-        <id>https://www.atelier-boulnois.fr/versailles.html</id>
+        <link href="http://www.atelier-boulnois.fr/versailles.html"/>
+        <id>http://www.atelier-boulnois.fr/versailles.html</id>
 
         <updated>2023-10-17T11:44:30+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/15/presentation1sculptureBoulnois_laure-helene_arnauld-11-Copie.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/15/presentation1sculptureBoulnois_laure-helene_arnauld-11-Copie.jpg" alt="" />
                     Restauration du Grand Cabinet du Dauphin, Château de Versailles C’est dans le&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/15/presentation1sculptureBoulnois_laure-helene_arnauld-11-Copie.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/15/presentation1sculptureBoulnois_laure-helene_arnauld-11-Copie.jpg" alt="" />
                 <p><strong><em>Restauration du Grand Cabinet du Dauphin, Château de Versailles</em></strong></p>
 <p><em>     C’est dans le cadre d’un appel d’offre publié par le </em><em>Château de Versailles en Juin 2020 que l’Atelier a participé entre </em><em>septembre 2020 et juillet 2021 à la restauration des boiseries </em><em>des appartements du Dauphin.</em><br><em>     En étroite collaboration avec Frédérique Didier et les </em><em>conservateurs du château et à partir de devis et esquisses </em><em>d’époque, Charles Boulnois, François Gilles et leurs collaborateurs ont eu la lourde tache de restituer sept trumeaux de </em><em>glaces monumentaux disparus sous Louis Philippe.</em><br><em>     C’est après un travail de recherches historiques très </em><em>fouillé mené par François Gilles, enseignant chercheur en </em><em>histoire de l’art et sculpteur, que des propositions dessinées ont </em><br><em>été soumises à l’agence d’architecture et à la conservation.</em><br><em>     Des modelages échelle 1:1 de l’ensemble des décors ont </em><em>ensuite été réalisés, c’est après les validations de ces travaux </em><em>d’étude que le travail du bois a pu être engagé.</em><br><em>     Par ailleurs, dans le cadre de ces travaux de recherche, </em><em>des moulages et scan 3D de décors originaux provenant du </em><em>Château de Versailles et d’autres musées ont été réalisés, ils ont </em><em>pour but, dans le cadre du projet, d’enrichir nos connaissances </em><em>sur l’ornementation de l’ancien régime, et plus largement </em><em>d’enrichir la base de données numérique et la gypsothèque de </em><em>l’entreprise.</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/Grand-Trumeau-Fin-Apla.jpg" data-size="2085x3937"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/Grand-Trumeau-Fin-Apla-thumbnail.jpg" alt="" width="768" height="1450"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/20201023_143539G.jpg" data-size="3084x2940"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/20201023_143539G-thumbnail.jpg" alt="" width="768" height="732"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06448HH.jpg" data-size="4262x2664"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06448HH-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06425R.jpg" data-size="3309x1295"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06425R-thumbnail.jpg" alt="" width="768" height="301"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-140T.jpg" data-size="2057x866"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-140T-thumbnail.jpg" alt="" width="768" height="323"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06810I.jpg" data-size="2576x2583"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06810I-thumbnail.jpg" alt="" width="768" height="770"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07045.JPG" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07045-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC08383.JPG" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC08383-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/photo-4-putti.jpg" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/photo-4-putti-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-23k.jpg" data-size="1812x2947"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-23k-thumbnail.jpg" alt="" width="768" height="1249"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-32K.jpg" data-size="1937x2645"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-32K-thumbnail.jpg" alt="" width="768" height="1049"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-94.jpg" data-size="2475x3712"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-94-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07016.JPG" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07016-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-109.jpg" data-size="4065x2710"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-109-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06955.JPG" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06955-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07736-1.JPG" data-size="4912x2760"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07736-1-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-71.jpg" data-size="2752x4128"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-71-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/Grand-Trumeau-Fin-Apla.jpg" data-size="2085x3937"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/Grand-Trumeau-Fin-Apla-thumbnail.jpg" alt="" width="768" height="1450"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/20201023_143539G.jpg" data-size="3084x2940"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/20201023_143539G-thumbnail.jpg" alt="" width="768" height="732"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06448HH.jpg" data-size="4262x2664"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06448HH-thumbnail.jpg" alt="" width="768" height="480"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06425R.jpg" data-size="3309x1295"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06425R-thumbnail.jpg" alt="" width="768" height="301"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-140T.jpg" data-size="2057x866"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-140T-thumbnail.jpg" alt="" width="768" height="323"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06810I.jpg" data-size="2576x2583"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06810I-thumbnail.jpg" alt="" width="768" height="770"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07045.JPG" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07045-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC08383.JPG" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC08383-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/photo-4-putti.jpg" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/photo-4-putti-thumbnail.jpg" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-23k.jpg" data-size="1812x2947"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-23k-thumbnail.jpg" alt="" width="768" height="1249"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-32K.jpg" data-size="1937x2645"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-32K-thumbnail.jpg" alt="" width="768" height="1049"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-94.jpg" data-size="2475x3712"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-94-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07016.JPG" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07016-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-109.jpg" data-size="4065x2710"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/presentation1sculptureBoulnois_laure-helene_arnauld-109-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06955.JPG" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC06955-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07736-1.JPG" data-size="4912x2760"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/DSC07736-1-thumbnail.JPG" alt="" width="768" height="432"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-71.jpg" data-size="2752x4128"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/15/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-71-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
 </div></div>
 <hr>
 <p> </p>
@@ -129,8 +129,8 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/contact.html"/>
-        <id>https://www.atelier-boulnois.fr/contact.html</id>
+        <link href="http://www.atelier-boulnois.fr/contact.html"/>
+        <id>http://www.atelier-boulnois.fr/contact.html</id>
 
         <updated>2023-10-17T11:56:07+02:00</updated>
             <summary>
@@ -149,28 +149,28 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/restauration-de-mobilier.html"/>
-        <id>https://www.atelier-boulnois.fr/restauration-de-mobilier.html</id>
+        <link href="http://www.atelier-boulnois.fr/restauration-de-mobilier.html"/>
+        <id>http://www.atelier-boulnois.fr/restauration-de-mobilier.html</id>
 
         <updated>2022-01-25T11:16:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/12/u.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/12/u.jpg" alt="" />
                      Restauration d’un cadre XIXeme,, Collection privée En collaboration avec L'Atelier Galopin,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/12/u.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/12/u.jpg" alt="" />
                 <p> </p>
 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/12/gallery/32.JPG" data-size="1360x1940"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/12/gallery/32-thumbnail.JPG" alt="" width="768" height="1096"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/12/gallery/32.JPG" data-size="1360x1940"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/12/gallery/32-thumbnail.JPG" alt="" width="768" height="1096"></a>
 <figcaption>Restauration d’un cadre XIXeme,, Collection privée</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/12/gallery/1411.jpg" data-size="981x732"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/12/gallery/1411-thumbnail.jpg" alt="" width="768" height="573"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/12/gallery/1411.jpg" data-size="981x732"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/12/gallery/1411-thumbnail.jpg" alt="" width="768" height="573"></a>
 <figcaption>En collaboration avec L'Atelier Galopin, Restauration des décors d’un cadre d’époque XVIIIe, Tableau peint par Jean-Baptiste Oudry en 1750 et copier par Marie Lecszinska, femme de Louis XV, en 1753 Château de Versailles</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/12/gallery/IMG_6448.JPG" data-size="3264x2448"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/12/gallery/IMG_6448-thumbnail.JPG" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/12/gallery/IMG_6448.JPG" data-size="3264x2448"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/12/gallery/IMG_6448-thumbnail.JPG" alt="" width="768" height="576"></a>
 <figcaption>Restauration d’une boiserie Régence en chêne du XVIIIe siècle, Hotel particulier de La Feuillade, Rue du Bac à Paris Greff es de parties manquantes</figcaption>
 </figure>
 </div></div>
@@ -182,31 +182,31 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/modeles-de-bronzes.html"/>
-        <id>https://www.atelier-boulnois.fr/modeles-de-bronzes.html</id>
+        <link href="http://www.atelier-boulnois.fr/modeles-de-bronzes.html"/>
+        <id>http://www.atelier-boulnois.fr/modeles-de-bronzes.html</id>
 
         <updated>2022-03-24T14:32:21+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black.jpg" alt="" />
                     <p><em>     L’atelier est également spécialisé dans la réédition de bronze d’ameublement, l’accès facilité aux collections des grand musées nous permet là aussi une approche très fidèle </em><br><em>des projets de réédition.</em><br><em>     En collaboration avec des entreprises, comme l’Atelier Sylvain Bulot, nous participons à la mise au point des plans et réalisons les dessins de chacun des éléments de bronze. </em><br><em>     Notre réseau d’artisan d’art nous permet la aussi d’assurer la coordination entre sculpteurs, fondeurs, ciseleurs et doreur.</em></p>
 <hr>
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black.jpg" alt="" />
                 <p><em>     L’atelier est également spécialisé dans la réédition de bronze d’ameublement, l’accès facilité aux collections des grand musées nous permet là aussi une approche très fidèle </em><br><em>des projets de réédition.</em><br><em>     En collaboration avec des entreprises, comme l’Atelier Sylvain Bulot, nous participons à la mise au point des plans et réalisons les dessins de chacun des éléments de bronze. </em><br><em>     Notre réseau d’artisan d’art nous permet la aussi d’assurer la coordination entre sculpteurs, fondeurs, ciseleurs et doreur.</em></p>
 <hr>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114226.jpg" data-size="3264x2448"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114226-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="576"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114226.jpg" data-size="3264x2448"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114226-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="576"></a>
 <figcaption>Reconstitution du bras manquant et de la toison à la plastiline</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114555.jpg" data-size="2448x3264"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114555-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150715_150738.jpg" data-size="2448x3264"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150715_150738-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114555.jpg" data-size="2448x3264"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150112_114555-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150715_150738.jpg" data-size="2448x3264"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/11/gallery/IMG_20150715_150738-thumbnail.jpg" alt="Pendule «Jason et la Toison d’Or»,Un modèle connu à  Malmaison, Epoque Empire" width="768" height="1024"></a></figure>
 </div></div>
 <hr>
-<figure class="post__image"><em><img loading="lazy"  src="https://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-xs.jpg 300w ,https://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-sm.jpg 480w ,https://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-md.jpg 768w ,https://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-lg.jpg 1024w"  alt="Modelage pour bronze, Réédition du Bureau Plat d’André Charles Boulle, Musée du Louvre" width="7248" height="4801"></figure></em></p>
+<figure class="post__image"><em><img loading="lazy"  src="http://www.atelier-boulnois.fr/media/posts/11/_DSC3927-Modifier-black-2.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-xs.jpg 300w ,http://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-sm.jpg 480w ,http://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-md.jpg 768w ,http://www.atelier-boulnois.fr/media/posts/11/responsive/_DSC3927-Modifier-black-2-lg.jpg 1024w"  alt="Modelage pour bronze, Réédition du Bureau Plat d’André Charles Boulle, Musée du Louvre" width="7248" height="4801"></figure></em></p>
 <p><em>Réédition du Bureau Plat d’André Charles Boulle, Musée du Louvre</em></p>
             ]]>
         </content>
@@ -216,13 +216,13 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/reedition-de-mobilier-dexceptions.html"/>
-        <id>https://www.atelier-boulnois.fr/reedition-de-mobilier-dexceptions.html</id>
+        <link href="http://www.atelier-boulnois.fr/reedition-de-mobilier-dexceptions.html"/>
+        <id>http://www.atelier-boulnois.fr/reedition-de-mobilier-dexceptions.html</id>
 
         <updated>2023-10-17T11:24:51+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/10/MONIER_JUIN20_006_2.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/10/MONIER_JUIN20_006_2.jpg" alt="" />
                     <p><em>     C’est grâce à son réseau de conservateurs de musées que l’Atelier Boulnois a pu réaliser in-situ les relevés de ces deux meubles emblématiques du mobilier sculpté du XVIIIème siècle. </em><br><em>     Les rééditions de ces meubles ont été menées dans nos ateliers de Villandry en Indre et Loire pour l’une des résidences françaises d’un client franco-américain. </em><br><em>     De la conception en Bureau d’étude à la livraison, ces projets ont été supervisés par notre équipe et nous ont donnés l’opportunité d’assurer la coordination entre menuisiers, sculpteurs, doreurs et tapissiers nécessaires à ce type de réédition.</em><br><em>     Pour chacun de ces types de projet l’atelier réalise un mémoire technique de fabrication qui est transmis au client, il reprend toutes les étapes du projet.</em></p>
 <p><em>    Ce document est également transmis aux conservateurs des musées d’où proviennent les pièces originales. Il permet d’identifier aisément le meuble. </em><br><em>    Il permet surtout d’éliminer tout doute quant à son authenticité en cas d’apparition ultérieur du meuble sur le marché des meubles anciens.</em></p>
 
@@ -230,42 +230,42 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/10/MONIER_JUIN20_006_2.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/10/MONIER_JUIN20_006_2.jpg" alt="" />
                 <p><em>     C’est grâce à son réseau de conservateurs de musées que l’Atelier Boulnois a pu réaliser in-situ les relevés de ces deux meubles emblématiques du mobilier sculpté du XVIIIème siècle. </em><br><em>     Les rééditions de ces meubles ont été menées dans nos ateliers de Villandry en Indre et Loire pour l’une des résidences françaises d’un client franco-américain. </em><br><em>     De la conception en Bureau d’étude à la livraison, ces projets ont été supervisés par notre équipe et nous ont donnés l’opportunité d’assurer la coordination entre menuisiers, sculpteurs, doreurs et tapissiers nécessaires à ce type de réédition.</em><br><em>     Pour chacun de ces types de projet l’atelier réalise un mémoire technique de fabrication qui est transmis au client, il reprend toutes les étapes du projet.</em></p>
 <p><em>    Ce document est également transmis aux conservateurs des musées d’où proviennent les pièces originales. Il permet d’identifier aisément le meuble. </em><br><em>    Il permet surtout d’éliminer tout doute quant à son authenticité en cas d’apparition ultérieur du meuble sur le marché des meubles anciens.</em></p>
 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_006_2.jpg" data-size="6917x4617"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_006_2-thumbnail.jpg" alt="" width="768" height="513"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_006_2.jpg" data-size="6917x4617"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_006_2-thumbnail.jpg" alt="" width="768" height="513"></a>
 <figcaption>Réédition «Lit à la Turque» de Jean Baptiste Tilliard, Hêtre</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_025.jpg" data-size="2000x2997"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_025-thumbnail.jpg" alt="" width="768" height="1151"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_025.jpg" data-size="2000x2997"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_025-thumbnail.jpg" alt="" width="768" height="1151"></a>
 <figcaption>Réédition «Lit à la Turque» de Jean Baptiste Tilliard, Hêtre</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_011.jpg" data-size="2997x2000"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_011-thumbnail.jpg" alt="" width="768" height="513"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_011.jpg" data-size="2997x2000"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_011-thumbnail.jpg" alt="" width="768" height="513"></a>
 <figcaption>Réédition «Lit à la Turque» de Jean Baptiste Tilliard, Hêtre</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_032.jpg" data-size="2000x2997"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_032-thumbnail.jpg" alt="" width="768" height="1151"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_032.jpg" data-size="2000x2997"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_032-thumbnail.jpg" alt="" width="768" height="1151"></a>
 <figcaption>Détail, Volute pied avant, Hêtre</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_040.jpg" data-size="2997x2000"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_040-thumbnail.jpg" alt="" width="768" height="513"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_040.jpg" data-size="2997x2000"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_040-thumbnail.jpg" alt="" width="768" height="513"></a>
 <figcaption>Détail, Grand cintre, Hêtre</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_060.jpg" data-size="2000x2997"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_060-thumbnail.jpg" alt="" width="768" height="1151"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_060.jpg" data-size="2000x2997"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/MONIER_JUIN20_060-thumbnail.jpg" alt="" width="768" height="1151"></a>
 <figcaption>Détail, Pied avant, Hêtre</figcaption>
 </figure>
 </div></div>
 <hr>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113446-bis.jpg" data-size="2385x4065"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113446-bis-thumbnail.jpg" alt="" width="768" height="1309"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113446-bis.jpg" data-size="2385x4065"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113446-bis-thumbnail.jpg" alt="" width="768" height="1309"></a>
 <figcaption>Réédition «Lit à la Duchesse en Impériale» de Georges Jacob</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113533-bis.jpg" data-size="3906x2567"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113533-bis-thumbnail.jpg" alt="" width="768" height="505"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20161011_201711.jpg" data-size="3264x2448"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20161011_201711-thumbnail.jpg" alt="" width="768" height="576"></a>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113533-bis.jpg" data-size="3906x2567"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113533-bis-thumbnail.jpg" alt="" width="768" height="505"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20161011_201711.jpg" data-size="3264x2448"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20161011_201711-thumbnail.jpg" alt="" width="768" height="576"></a>
 <figcaption>Détail, Tête de lit, Noyer</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_112551-bis.jpg" data-size="3887x2710"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_112551-bis-thumbnail.jpg" alt="" width="768" height="535"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113707-2.jpg" data-size="4128x3096"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113707-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_113021.jpg" data-size="4128x3096"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_113021-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_112551-bis.jpg" data-size="3887x2710"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_112551-bis-thumbnail.jpg" alt="" width="768" height="535"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113707-2.jpg" data-size="4128x3096"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20181016_113707-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_113021.jpg" data-size="4128x3096"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/10/gallery/20171210_113021-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
             ]]>
         </content>
@@ -275,41 +275,41 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/savoir-faire.html"/>
-        <id>https://www.atelier-boulnois.fr/savoir-faire.html</id>
+        <link href="http://www.atelier-boulnois.fr/savoir-faire.html"/>
+        <id>http://www.atelier-boulnois.fr/savoir-faire.html</id>
 
         <updated>2022-01-25T15:07:05+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/3/DSC08682-2.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/3/DSC08682-2.jpg" alt="" />
                     <p><em>     L’Atelier Boulnois est spécialisé dans la sculpture sur bois, que ce soit en restauration, en réédition, restitution de décors ou de statuaire.</em><br><em>    À cette première activité, se joignent de nombreux savoir-faire connexes qui correspondent aux compétences traditionnelles du sculpteur.</em></p>
 <p><em>    Le dessin est le plus important de ses savoir-faire. </em><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Il est indispensable à tout projet et intervient en tout premier lieu pour étudier et </em><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">« projeter » des formes et des intentions. Les techniques du dessin sont bien sûr très variées et permettent des rendus très riches, mais la spécificité de l’Atelier Boulnois est d’avoir développé le dessin numérique qui permet une très grande souplesse dans le rendu et l’étude.</em></p>
 <p><em>    L’Atelier a depuis quelques années opté pour une technique de dessin sur tablette graphique. </em><em> Cette technique qui s’applique aussi bien aux projets de </em><em>mobiliers que de boiseries facilite considérablement l’exercice </em><em>collaboratif que représente les projets sur lesquels nous travaillons. Il permet de confronter sur un même document les dessins, les plans et les élévations. S’il offre une grande efficacité </em><em>de mise au point ce travail d’assemblage agrémenté de rendus </em><em>esthétiques permet aussi d’apprécier, à la fois, l’harmonie générale d’un meuble et les qualités ornementales de chacun des </em><em>détails.</em></p>
 <p><br><em>     En outre il offre la possibilité de travailler à l’échelle </em><em>1 :1, et donc de réaliser des impressions « grandeur », qui lors </em><em>d’étapes de validation et dans le cadre de réunions de chantier </em><em>sont mises en situation et permettent une appréciation optimale du projet dans le lieu de sa destination. </em></p>
 <p> </p>
-<figure class="post__image"><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://www.atelier-boulnois.fr/media/posts/3/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-xs.jpg 300w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-sm.jpg 480w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-md.jpg 768w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-lg.jpg 1024w"  alt="Dessin sur tablette graphique" width="4128" height="2752"></figure></em></p>
+<figure class="post__image"><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="http://www.atelier-boulnois.fr/media/posts/3/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-xs.jpg 300w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-sm.jpg 480w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-md.jpg 768w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-lg.jpg 1024w"  alt="Dessin sur tablette graphique" width="4128" height="2752"></figure></em></p>
 <hr>
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/3/DSC08682-2.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/3/DSC08682-2.jpg" alt="" />
                 <p><em>     L’Atelier Boulnois est spécialisé dans la sculpture sur bois, que ce soit en restauration, en réédition, restitution de décors ou de statuaire.</em><br><em>    À cette première activité, se joignent de nombreux savoir-faire connexes qui correspondent aux compétences traditionnelles du sculpteur.</em></p>
 <p><em>    Le dessin est le plus important de ses savoir-faire. </em><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Il est indispensable à tout projet et intervient en tout premier lieu pour étudier et </em><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">« projeter » des formes et des intentions. Les techniques du dessin sont bien sûr très variées et permettent des rendus très riches, mais la spécificité de l’Atelier Boulnois est d’avoir développé le dessin numérique qui permet une très grande souplesse dans le rendu et l’étude.</em></p>
 <p><em>    L’Atelier a depuis quelques années opté pour une technique de dessin sur tablette graphique. </em><em> Cette technique qui s’applique aussi bien aux projets de </em><em>mobiliers que de boiseries facilite considérablement l’exercice </em><em>collaboratif que représente les projets sur lesquels nous travaillons. Il permet de confronter sur un même document les dessins, les plans et les élévations. S’il offre une grande efficacité </em><em>de mise au point ce travail d’assemblage agrémenté de rendus </em><em>esthétiques permet aussi d’apprécier, à la fois, l’harmonie générale d’un meuble et les qualités ornementales de chacun des </em><em>détails.</em></p>
 <p><br><em>     En outre il offre la possibilité de travailler à l’échelle </em><em>1 :1, et donc de réaliser des impressions « grandeur », qui lors </em><em>d’étapes de validation et dans le cadre de réunions de chantier </em><em>sont mises en situation et permettent une appréciation optimale du projet dans le lieu de sa destination. </em></p>
 <p> </p>
-<figure class="post__image"><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://www.atelier-boulnois.fr/media/posts/3/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-xs.jpg 300w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-sm.jpg 480w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-md.jpg 768w ,https://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-lg.jpg 1024w"  alt="Dessin sur tablette graphique" width="4128" height="2752"></figure></em></p>
+<figure class="post__image"><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);"><img loading="lazy"  style="outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="http://www.atelier-boulnois.fr/media/posts/3/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13.jpg" sizes="(max-width: 1024px) 100vw, 1024px" srcset="http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-xs.jpg 300w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-sm.jpg 480w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-md.jpg 768w ,http://www.atelier-boulnois.fr/media/posts/3/responsive/atelier_charles-boulnois_Laure-Helene_Arnauld_web-13-lg.jpg 1024w"  alt="Dessin sur tablette graphique" width="4128" height="2752"></figure></em></p>
 <hr>
 <p><em>    Le modelage peut alors, dans un second temps, mettre en volume et incarner le dessin. </em><em>La plasticité du modelage autorise la recherche et l’expérimentation des volumes du projet afin d’en apprécier les effets. Les échelles et les degrés de précision de ces modelages peuvent être infinis et permettent de développer toute sorte de propositions et modèles qui sont soumises à l’approbation du client. </em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6839.JPG" data-size="3888x2592"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6839-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6847.JPG" data-size="3888x2592"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6847-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6839.JPG" data-size="3888x2592"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6839-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6847.JPG" data-size="3888x2592"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/3/gallery/IMG_6847-thumbnail.JPG" alt="" width="768" height="512"></a></figure>
 </div></div>
 <hr>
 <p><em> </em><em style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">  Enfin, pour pérenniser ces études, une activité de moulage a été mise en place au sein de l’atelier. Les moulages réalisés par l’atelier sur des modèles originaux servent aussi à faire croître la « bibliothèque en volume » qu’est la collection de plâtres de l’atelier.</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/3/gallery/Resized_20200707_102905.jpg" data-size="960x720"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/3/gallery/Resized_20200707_102905-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/3/gallery/Resized_20200707_102905.jpg" data-size="960x720"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/3/gallery/Resized_20200707_102905-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
 </div></div>
 <p> </p>
 <p> </p>
@@ -322,32 +322,32 @@
         <author>
             <name>Atelier Boulnois</name>
         </author>
-        <link href="https://www.atelier-boulnois.fr/presentation.html"/>
-        <id>https://www.atelier-boulnois.fr/presentation.html</id>
+        <link href="http://www.atelier-boulnois.fr/presentation.html"/>
+        <id>http://www.atelier-boulnois.fr/presentation.html</id>
 
         <updated>2023-10-17T11:53:17+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.atelier-boulnois.fr/media/posts/2/IMG_20200703_113323.jpg" alt="" />
+                        <img src="http://www.atelier-boulnois.fr/media/posts/2/IMG_20200703_113323.jpg" alt="" />
                     <p><em>        Crée en 2006 en région parisienne, L’Atelier a déménagé en Indre-et-Loire en 2013, avant de s’établir à Villandry en 2018. </em></p>
 <p><em>         L’Atelier s’inscrit dans un cadre de travail inspirant puisqu’il occupe l’ancien </em><br><em>presbytère et l’ancienne grange dîmière qui jouxtent les jardins et le Château de Villandry. </em><br><em> </em></p>
 <p><em>         Fort de son équipe, de son experience et de son réseau de partenaires, l'Atelier Boulnois est aujourd’hui en mesure de superviser des projets d’envergure, reunissant différents corps de métiers tout en garantissant un niveau d’excellence dans la qualité des réalisations.</em></p>
 <div class="gallery-wrapper align-center align-left"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323.jpg" data-size="3504x2207"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323-thumbnail.jpg" alt="" width="768" height="484"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70.jpg" data-size="4128x2752"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323.jpg" data-size="3504x2207"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323-thumbnail.jpg" alt="" width="768" height="484"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70.jpg" data-size="4128x2752"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.atelier-boulnois.fr/media/posts/2/IMG_20200703_113323.jpg" alt="" />
+                    <img src="http://www.atelier-boulnois.fr/media/posts/2/IMG_20200703_113323.jpg" alt="" />
                 <p><em>        Crée en 2006 en région parisienne, L’Atelier a déménagé en Indre-et-Loire en 2013, avant de s’établir à Villandry en 2018. </em></p>
 <p><em>         L’Atelier s’inscrit dans un cadre de travail inspirant puisqu’il occupe l’ancien </em><br><em>presbytère et l’ancienne grange dîmière qui jouxtent les jardins et le Château de Villandry. </em><br><em> </em></p>
 <p><em>         Fort de son équipe, de son experience et de son réseau de partenaires, l'Atelier Boulnois est aujourd’hui en mesure de superviser des projets d’envergure, reunissant différents corps de métiers tout en garantissant un niveau d’excellence dans la qualité des réalisations.</em></p>
 <div class="gallery-wrapper align-center align-left"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323.jpg" data-size="3504x2207"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323-thumbnail.jpg" alt="" width="768" height="484"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70.jpg" data-size="4128x2752"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323.jpg" data-size="3504x2207"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/IMG_20200703_113323-thumbnail.jpg" alt="" width="768" height="484"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70.jpg" data-size="4128x2752"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/atelier_charles-boulnois_Laure-Helene_Arnauld_web-70-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 
 <p><em>        L’équipe compte six collaborateurs en atelier, deux d’entre eux ont obtenu le titre de Meilleurs Ouvriers de France. </em></p>
@@ -361,9 +361,9 @@
 
 <p> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-1.jpg" data-size="1416x2680"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-1-thumbnail.jpg" alt="" width="768" height="1454"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-2.jpg" data-size="402x1295"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-2-thumbnail.jpg" alt="" width="402" height="1295"></a></figure>
-<figure class="gallery__item"><a href="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-3.jpg" data-size="453x1318"><img loading="lazy" src="https://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-3-thumbnail.jpg" alt="" width="453" height="1318"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-1.jpg" data-size="1416x2680"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-1-thumbnail.jpg" alt="" width="768" height="1454"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-2.jpg" data-size="402x1295"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-2-thumbnail.jpg" alt="" width="402" height="1295"></a></figure>
+<figure class="gallery__item"><a href="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-3.jpg" data-size="453x1318"><img loading="lazy" src="http://www.atelier-boulnois.fr/media/posts/2/gallery/Atelier-Boulnois-MOF-Charles-Boulnois-3-thumbnail.jpg" alt="" width="453" height="1318"></a></figure>
 </div></div>
 <p><em>Archives Départementale de Dijon, Pièce lauréate du Concours «Un des Meilleurs Ouvriers de France» 2011, Copie d’un panneau Louis XIII</em></p>
             ]]>
